@@ -43,3 +43,5 @@ babytron
 ima add accoutns
 %
 i dont like the forums and hope to remove them in the future
+%
+white theme color is bad
